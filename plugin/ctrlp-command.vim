@@ -1,1 +1,1 @@
-command! CtrlCommand call ctrlp#command#command()
+command! CtrlPCommand call ctrlp#command#command()
